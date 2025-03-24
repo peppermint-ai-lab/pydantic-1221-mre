@@ -5,6 +5,7 @@
 # Setup
 - pip install -r requirements.txt
 - `uvicorn app.main:app --reload --log-level info`
+- Add open ai api key to .env file
 
 # Repro
 ## 1
